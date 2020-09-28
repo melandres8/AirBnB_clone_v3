@@ -44,7 +44,6 @@ button:hover {
 }
 
 .overflow {
-    overflow: scroll;
     white-space: nowrap;
 }
 
